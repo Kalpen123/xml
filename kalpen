@@ -1,0 +1,22 @@
+Spaces<?xml version="1.0" encoding="UTF-8"?>  
+<emails>  
+<email>  
+  <to>22MCA038</to>  
+  <from>Kalpen !</from>  
+  <heading>Godd Evening</heading>  
+  <body> how the josh !</body>  
+</email>  
+<email>  
+  <to>jay@gmail.com</to>  
+  <from>karan@gmail.com<from>  
+  <heading>Birth day wish</heading>  
+  <body>Happy birth day Jay!</body>  
+</email>  
+<email>  
+  <to>akhil@gmail.com</to>  
+  <from>meet@gmail.com</from>  
+  <heading>Morning walk</heading>  
+  <body>Please start morning walk to stay fit!</body>  
+</email>  
+
+</emails>
